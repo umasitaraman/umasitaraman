@@ -19,7 +19,7 @@ I'm Uma
 
 👨🏻•💻 About Me
 
-🌱   I’m currently learning Java BackEnd Development at BloomTech institute of Technology.
+🌱   I’m currently exploring Java BackEnd Development career opportunities.
 
 🎓   Education:
      Have an education background in electrical engineering.
